@@ -10,10 +10,11 @@
   <a href="mailto:aslamaslama503@gmail.com"><img src="https://img.shields.io/badge/Gmail-aslamaslama503-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-50%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 </p>
-
+---
 👨‍💻 About Me
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-javascriptconst aslam = {
+```javascript
+const aslam = {
   name:     "Aslam A",
   location: "Vellore, Tamil Nadu, India 🇮🇳",
   degree:   "B.E. Computer Science Engineering (2026)",
@@ -37,58 +38,40 @@ javascriptconst aslam = {
 
   motto: () => "Ship clean code. Measure everything. Iterate fast.",
 };
+```
 <br clear="right"/>
-
+---
 🛠️ Tech Stack
 Languages
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 Frameworks & Libraries
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 Databases
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 Cloud & DevOps
-Show Image
-
-Show Image
-
-Show Image
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 Tools & AI
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
-
-Show Image
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20AI-1A1A1A?style=flat-square&logo=cursor&logoColor=white)
+---
 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/aslamaslama503">
@@ -98,59 +81,68 @@ Show Image
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamaslama503&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
-
+---
 🔥 Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aslamaslama503&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
-
+---
 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aslamaslama503&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
-
+---
 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aslamaslama503&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
-
+---
 💼 Work Experience
 <details>
 <summary><strong>BDreanz Global Solutions — MERN Stack Developer Intern</strong> &nbsp;|&nbsp; Oct 2025 – Mar 2026 &nbsp;|&nbsp; Chennai, Tamil Nadu</summary>
 <br/>
-
-Show Image Show Image Show Image Show Image Show Image
-
-
+> ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 Developed and maintained production full-stack web applications (HTML, CSS, JS, React.js, Node.js, Express.js), improving user engagement and performance.
 Built RESTful APIs integrated with MongoDB for dynamic data handling, reducing manual workflow processes by 30%.
 Implemented JWT-based authentication and role-based access control, strengthening application security.
 Optimized frontend performance and backend response time, improving application load speed by 25%.
-
 </details>
-
+---
 🚀 Featured Projects
 <div align="center">
-ProjectStackHighlightsReal-Time Chat & Video Call AppMERN · Socket.io · WebRTC95% connection stability · 20+ secured endpoints · 30% ↑ session durationQUICKAI — AI Content GeneratorMERN · Gemini API · Google AI Studio200+ requests/day · 1,000+ prompts stored · 40% ↓ content creation timeJob PortalMERN StackFull-stack hiring platform built during internship · Role-based access · Production deployed
+Project	Stack	Highlights
+Real-Time Chat & Video Call App	MERN · Socket.io · WebRTC	95% connection stability · 20+ secured endpoints · 30% ↑ session duration
+QUICKAI — AI Content Generator	MERN · Gemini API · Google AI Studio	200+ requests/day · 1,000+ prompts stored · 40% ↓ content creation time
+Job Portal	MERN Stack	Full-stack hiring platform · Role-based access · Production deployed
 </div>
-
+---
 🏅 Achievements
 <div align="center">
-AchievementDetails🥇National Level Symposium WinnerWon 2+ national-level technical events (Web Design & Coding)💻LeetCode50+ problems solved across DSA topics📜Full Stack DevelopmentCertified — Udemy (Angela Yu)📜MERN Stack DevelopmentCertified — Besant Technologies
+	Achievement	Details
+🥇	National Level Symposium Winner	Won 2+ national-level technical events (Web Design & Coding)
+💻	LeetCode	50+ problems solved across DSA topics
+📜	Full Stack Development	Certified — Udemy (Angela Yu)
+📜	MERN Stack Development	Certified — Besant Technologies
 </div>
-
+---
 🎓 Education
 <div align="center">
-DegreeInstitutionYearScoreB.E. Computer Science EngineeringAnnai Mira College of Engineering and Technology, Ranipet2022 – 2026CGPA: 8.0Higher Secondary (12th)NKM Higher Secondary School202273%SSLC (10th)Don Bosco High School202087%
-</div>
+Degree	Institution	Year	Score
 
+B.E. Computer Science Engineering	Annai Mira College of Engineering and Technology, Ranipet	2022 – 2026	CGPA: 8.0
+Higher Secondary (12th)	NKM Higher Secondary School	2022	73%
+SSLC (10th)	Don Bosco High School	2020	87%
+</div>
+---
 📚 Currently Learning
+```
 🧱 System Design       → HLD, LLD, Microservices, Caching, Message Queues
 ⚡ TypeScript          → Advanced types, generics, strict mode at scale
 🤖 AI/LLM Integration  → Gemini API, OpenAI, prompt engineering, RAG pipelines
 ☁️  Cloud & DevOps      → GCP, Docker Compose, CI/CD pipelines, monitoring
 🔐 Security            → JWT deep-dive, OAuth2, OWASP Top 10
-
+```
+---
 <p align="center">
   <i>"Build things that matter. Measure what you ship. Iterate relentlessly."</i>
 </p>
